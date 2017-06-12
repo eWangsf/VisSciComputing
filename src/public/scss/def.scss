@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|Titillium+Web:600');
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+@import url("https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.css");
+@import url("https://cdn.bootcss.com/leaflet/1.0.3/leaflet.css");
+@import url("http://code.ionicframework.com/ionicons/1.5.2/css/ionicons.min.css");
+@import url("https://cdn.bootcss.com/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css");
+$primary-color: #2980b9;
+$bg-color: #000;
+
+$toolbar-height: 40px;
+
+$list-view-width: 300px;
+$right-cont-width: calc(100vw - 300px);
+
+$upper-cont-height: 65%;
+$lower-cont-height: 100% - $upper-cont-height;
+
+$plan-cont-width: 55%;
+$map-cont-width: 100% - $plan-cont-width;
+$matrix-cont-width: 23%;
+$sim-cont-width: 23%;
+$attrib-cont-width: 100% - $matrix-cont-width - $sim-cont-width;
+
+
