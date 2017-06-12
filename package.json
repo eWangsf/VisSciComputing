@@ -1,8 +1,8 @@
 {
-  "name": "homefinder",
+  "name": "VisSciComputing",
   "version": "1.0.0",
-  "description": "HomeFinder Refactored",
-  "author": "Di Weng <mystery.wd@gmail.com>",
+  "description": "Visualization in Scientific Computing",
+  "author": "eWangsf",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
